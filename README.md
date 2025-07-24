@@ -59,4 +59,4 @@
 </div>
 <center>
   
-> `POWERED BY MR FRANK OFC 🇿🇼` </center>
+> `POWERED BY LIL GAGA TRAXX09 🇿🇼` </center>
