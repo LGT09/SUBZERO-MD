@@ -1,7 +1,7 @@
 module.exports = {
-  SESSION_ID: "", // Put Session Id Here Inside "*"
-  OWNER_NUMBER: "263719647303", // Put Owner Number Here 
-  PREFIX: "." // Default Prefix You Can Change To .,*!?+-&%#@
+  SESSION_ID: "", // SUBZERO-MD;;;7BVB1IwJ#DrFqqUIsSWUykQon2bonwF_jOHAejkoeqUg8buPVyrE"*"
+  OWNER_NUMBER: "263716857999", // 263716857999 
+  PREFIX: "." // .
 };
 
-// CREATED BY DARRELL MUCHERI ( MR FRANK OFC 🇿🇼 )
+// CREATED BY VINCENT GANIZA( LIL GAGA 🇿🇼 )
